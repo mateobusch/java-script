@@ -214,6 +214,6 @@ let got = [
 ]
 
 for(let i=0; i<got.length; i++){
-    console.log(got[i].nombre)
+    console.log("Soy" + got[i].nombre + "" + got[i].apellido + " de la ciudad" + got[i].ciudad)
 }
 
