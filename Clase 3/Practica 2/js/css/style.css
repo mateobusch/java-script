@@ -1,0 +1,17 @@
+.characterList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+    
+    
+}
+h1{
+    margin-left: 550px;
+    justify-content: center;
+}
+.characterList article{
+    border: 1px, black, solid;
+    padding: 5px;
+    margin-bottom: 10px;
+}
